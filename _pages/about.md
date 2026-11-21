@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Olympiad mathematics teacher and English tutor based in Yangon, Myanmar, with a background in mathematics and ongoing studies in Mathematics. 
+I am an Olympiad mathematics teacher based in Yangon, Myanmar, with a background in mathematics and ongoing studies in Mathematics. 
 
 ## Teaching & Mathematics
 I teach Olympiad mathematics across elementary to undergraduate school levels, as well as tutoring English. My teaching focuses on structured problem-solving, analytical thinking, and helping students build confidence with challenging mathematical ideas.
